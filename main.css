@@ -1,0 +1,13 @@
+@media (min-width: 768px) {
+  .navbar .nav > li.dropdown.open {
+    position: static; }
+  .navbar .nav > li.dropdown.open .dropdown-menu {
+    display: table;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    right: 0; }
+  .navbar .dropdown-menu > li {
+    display: table-cell; } }
+
+/*# sourceMappingURL=main.css.map */
