@@ -47,15 +47,15 @@
 ### Azure webserver connections
 #### 'customer'-test.azurewebsites.net
 * 192.168.1.1
-* password in laspass (Contact project lead or senior dev for information)
+* password in LastPass (Contact project lead or senior dev for information)
 * general info about azure
 
 #### 'customer'-stage.azurewebsites.net
 * 192.168.1.1
-* password in laspass (Contact project lead or senior dev for information)
+* password in LastPass (Contact project lead or senior dev for information)
 * general info about azure
 
 #### 'customer'-production.azurewebsites.net
 * 192.168.1.1
-* password in laspass (Contact project lead or senior dev for information)
+* password in LastPass (Contact project lead or senior dev for information)
 * general info about azure
